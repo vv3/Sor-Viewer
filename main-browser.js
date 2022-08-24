@@ -156,7 +156,7 @@ function drawEchart(points, markers) {
       splitNumber: 10
     },
     yAxis: {
-      name: "Refelction (dB)",
+      name: "Reflection (dB)",
       nameTextStyle: {
         fontWeight: "bold"
       },
